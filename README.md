@@ -1,6 +1,6 @@
-## Computer Systems: A Programmer's Perspective
+## 深入理解计算机系统 Computer Systems: A Programmer's Perspective
 
-![](./_Attachments/ComputerSystems-AProgrammersPerspective.jpg)
+<img src="Resources/CSAPP.jpg" alt="CSAPP" style="zoom:50%;" />
 
 ### 1. Prepare
 
