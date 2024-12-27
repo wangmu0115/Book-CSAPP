@@ -10,29 +10,13 @@
 
 ### 1. C语言
 
-推荐[**C语言程序设计：现代方法**](https://book.douban.com/subject/35503091/)。
+推荐阅读 [**C语言程序设计：现代方法**](https://book.douban.com/subject/35503091/)
 
-[![](__Resources/C_1.jpg)](https://book.douban.com/subject/35503091/) [![](__Resources/C_2.jpg)](https://book.douban.com/subject/33400767/) [![](__Resources/C_3.jpg)](https://book.douban.com/subject/35216781/) 
+- [C语言程序设计：现代方法.pdf](__Resources/Books/CProgramming_AModernApproach.pdf)
+- [C程序设计语言_en.pdf](__Resources/Books/The_C_Programming_Language_2.pdf)
+- [C程序设计语言_zh.pdf](__Resources/Books/The_C_Programming_Language_2_zh.pdf)
 
-[![](__Resources/C_4.jpg)](https://book.douban.com/subject/26792521/) [![](__Resources/C_5.jpg)](https://book.douban.com/subject/35218533/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- C程序设计语言：[原书PDF(英文)](./_Attachments/The_C_Programming_Language_2.pdf) [原书PDF(中文)](./_Attachments/The_C_Programming_Language_2_ch.pdf)
+[![](__Resources/C_1.jpg)](https://book.douban.com/subject/35503091/) [![](__Resources/C_2.jpg)](https://book.douban.com/subject/33400767/) [![](__Resources/C_3.jpg)](https://book.douban.com/subject/35216781/) [![](__Resources/C_4.jpg)](https://book.douban.com/subject/26792521/) [![](__Resources/C_5.jpg)](https://book.douban.com/subject/35218533/)
 
 ### 2. Classes
 
