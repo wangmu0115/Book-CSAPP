@@ -12,45 +12,28 @@
 
 推荐阅读 [**C语言程序设计：现代方法**](https://book.douban.com/subject/35503091/)
 
-- [C语言程序设计：现代方法.pdf](__Resources/Books/CProgramming_AModernApproach.pdf)
+
+[![](__Resources/C_1.jpg)](https://book.douban.com/subject/35503091/) [![](__Resources/C_2.jpg)](https://book.douban.com/subject/33400767/) [![](__Resources/C_3.jpg)](https://book.douban.com/subject/35216781/) 
+
+[![](__Resources/C_4.jpg)](https://book.douban.com/subject/26792521/) [![](__Resources/C_5.jpg)](https://book.douban.com/subject/35218533/)
+
+### 2. Courses
+
+- [从第一原理构建现代计算机：从 Nand 到俄罗斯方块](https://www.coursera.org/learn/build-a-computer)
+- [CMU CSAPP 15-213](https://www.youtube.com/playlist?list=PL22J-I2Pi-Gf0s1CGDVtt4vuvlyjLxfem)
+- [CS61C](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
+
+### 3. Labs
+
+
+
+### 99. References
+
+- [Nand2Tetris](https://www.nand2tetris.org/)
+- [CSAPP Labs](http://csapp.cs.cmu.edu/3e/labs.html)
+- [读薄/读厚 CSAPP](https://wdxtub.com/work/)
+
+- [C语言程序设计：现代方法_zh.pdf](__Resources/Books/CProgramming_AModernApproach.pdf)
 - [C程序设计语言_en.pdf](__Resources/Books/The_C_Programming_Language_2.pdf)
 - [C程序设计语言_zh.pdf](__Resources/Books/The_C_Programming_Language_2_zh.pdf)
-
-[![](__Resources/C_1.jpg)](https://book.douban.com/subject/35503091/) [![](__Resources/C_2.jpg)](https://book.douban.com/subject/33400767/) [![](__Resources/C_3.jpg)](https://book.douban.com/subject/35216781/) [![](__Resources/C_4.jpg)](https://book.douban.com/subject/26792521/) [![](__Resources/C_5.jpg)](https://book.douban.com/subject/35218533/)
-
-### 2. Classes
-
-- [计算机系统基础（一）：程序的表示、转换与链接](http://www.icourse163.org/course/NJU-1001625001)
-- [计算机系统基础（二）：程序的执行和存储访问](http://www.icourse163.org/course/NJU-1001964032)
-- [计算机系统基础（三）：异常、中断和输入/输出](http://www.icourse163.org/course/NJU-1002532004)
-- [2015 CMU 15-213 CSAPP英文字幕](https://www.bilibili.com/video/av40238125)
-- [2015 CMU 15-213 CSAPP中英文字幕](https://www.bilibili.com/video/av31289365)
-
-### 3. References
-
-- 原书PDF版(英文): [Computer Systems: A Programmer's Perspective(3rd)](./_Attachments/Computer_Systems_A_Programmers_Perspective(3rd).pdf)
-- [CSAPP(3rd): Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions)
-- [CSAPP(3rd): Labs](http://csapp.cs.cmu.edu/3e/labs.html)
-- [读薄/读厚 CSAPP](https://wdxtub.com/work/)
-- [CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
-
-### 4. Notes
-
-
-
-### 5. Labs
-
-
-
-### Resources
-
-#### C语言
-
-#### CSAPP
-
-https://www.nand2tetris.org/
-
-https://www.coursera.org/learn/build-a-computer
-
-
-
+- [深入理解计算机系统_zh.pdf](__Resources/Books/CSAPP.pdf)
